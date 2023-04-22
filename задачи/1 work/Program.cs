@@ -11,7 +11,7 @@ int numberB = Convert.ToInt32(Console.ReadLine());
 
 if(numberA > numberB)
 {
-    Console.WriteLine($"Максимальное число B = {numberA}");
+    Console.WriteLine($"Максимальное число A = {numberA}");
 }
 else
 {
