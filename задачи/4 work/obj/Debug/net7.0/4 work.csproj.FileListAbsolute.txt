@@ -1,0 +1,15 @@
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\bin\Debug\net7.0\4 work.exe
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\bin\Debug\net7.0\4 work.deps.json
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\bin\Debug\net7.0\4 work.runtimeconfig.json
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\bin\Debug\net7.0\4 work.dll
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\bin\Debug\net7.0\4 work.pdb
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.csproj.AssemblyReference.cache
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.AssemblyInfoInputs.cache
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.AssemblyInfo.cs
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.csproj.CoreCompileInputs.cache
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.dll
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\refint\4 work.dll
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.pdb
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\4 work.genruntimeconfig.cache
+E:\GeekB\С# дз 1 семинар Эмир\задачи\4 work\obj\Debug\net7.0\ref\4 work.dll
